@@ -1,0 +1,74 @@
+---
+title: "Resultado"
+number-sections: false
+---
+
+# Se mantiene un flujo de fondos que permite el logro de los resultados comprometidos en el CdA"
+
+## 6.1 Resultado intermedio: Se promueve la implementación de mecanismos financieros que contribuyen a la conservación del PNCAZ
+
+### **6.1.1 Aplicación a financiamiento de diversas fuentes/mecanismos**
+
+::: callout-important
+#### No se programaron actividades este trimestre
+:::
+
+### **6.1.2 Coordinación y negociación con entidades de financiamiento**
+
+::: callout-important
+#### No se programaron actividades este trimestre
+:::
+
+## 6.2 Resultado intermedio: El Proyecto REDD PNCAZ brinda un aporte financiero continuo a la gestión del PNCAZ
+
+### **6.2.1 Revalidación de LB y Verificación de Proyecto REDD (2021-2028)**
+
+A la fecha, aún no se ha formalizado la actualización de los procesos de revalidación de las Líneas Base (LB) y verificación de los proyectos REDD+ en el mercado voluntario por parte del Ministerio del Ambiente (MINAM), en su calidad de ente rector. Mientras tanto, se han desarrollado conversatorios sobre las contribuciones del mercado voluntario con certificadores como VERRA (27 de octubre de 2023) a fin de compartir avances con relación al Proceso Nacional REDD+ (definición de la línea de base nacional, y proceso de anidación) y ponderar el rol y las oportunidades del mecanismo REDD+ en el Perú.
+
+#### **6.2.1.1 Verificación VCS y CCB**
+
+::: callout-important
+#### No se programaron actividades este trimestre
+:::
+
+#### **6.2.1.2 Markit (Registro Anual)**
+
+::: callout-important
+#### No se programaron actividades este trimestre
+:::
+
+#### **6.2.1.3 Linea Base 2021-2024 y 25-28**
+
+::: callout-important
+#### No se programaron actividades este trimestre
+:::
+
+#### 6.2.1.4 Monitoreo de Diagnóstcio de las poblaciones nativas y mestizas en la ZA del PN Cordillera Azul a través del MUF
+
+El Mapeo de Usos y Fortalezas que corresponde al quinquenio 2024-2028, está programado para iniciar el 2026 y presentar los resultados a las comunidades en marzo 2027. En este contexto, se desarrollaran actividades para la organización logística y técnica, a partir del 2025, con la finalidad de ajustar los procedimientos en la colecta de datos, responsables y tiempos. Actualmente, se está organizando y revisando la información histórica de los MUFs realizados años anteriores. Esto nos permitirá ajustar y mejorar la herramienta, con el objetivo de hacer un diagnóstico integral de los 20 años de intervención, y devolver la información de manera rápida y eficiente a las comunidades y otros actores aliados. La información generada, ayudará a canalizar las necesidades y fortalezas de las comunidades nativas y centros poblados, con las instituciones publicadas y privadas que desarrollan proyectos en la ZA del parque, maximizando las oportunidades de financiamiento.
+
+Como resultado del MUF 2022, se ha elaborado un mapa con las áreas de uso de recursos de las 98 comunidades que participaron y los sectores de intervención del Proyecto RED+ (@fig-muf2022 ; [Anexo 6.2.1.4](https://drive.google.com/drive/folders/1y0SELXRCJo6RhTokPEnWqdlzlyA8G9wQ?usp=drive_link)); que permite con el financiamiento recibido, realizar las acciones de conservación en el PNCAZ. Es clave resaltar, que el MUF es una herramienta que permitió generar indicadores de intervención utilizados para justificar la venta de créditos de carbono.
+
+![Mapa Usos y Fortalezas MUF -2022. Se indican los sectores de intervención del proyecto REDD+ PNCAZ, según el PPD 2012 y los usos actuales de las 96 comunidades que han participado en el MUF. Las áreas son referenciales, dibujadas por cada comunidad.](images/S1_24JUN27_Uso_Rec_MUF_2022_y_Interv_REDD_A4.jpg){#fig-muf2022 alt="Mapa Usos y Fortalezas MUF -2022. Se indican los sectores de intervención del proyecto REDD+ PNCAZ, según el PPD 2012 y los usos actuales de las 96 comunidades que han participado en el MUF. Las áreas son referenciales, dibujadas por cada comunidad."}
+
+### 6.2.2 Comercialización de los créditos carbono del Proyecto REDD+ PNCAZ
+
+Se ha preparado una tabla con los VCUs del PNCAZ comercializados hasta fines de marzo 2024 basados en las cartas de autorización que SERNANP emite a solicitud de CIMA para su correspondiente comercialización ([Ver detalle en Anexo 6.2.2](https://drive.google.com/drive/folders/1mGDQUY1gn7cnm1KiT5TkvlMdcD8U4oO9?usp=drive_link)).
+
+En este trimestre sólo se ha comercializado 4,325 VCUs por un valor de US\$25,582 autorizados con la carta N°0001-2024-SERNANP-J-SGD, la misma que se muestra en la posición 33 de la Tabla adjunta, en el Anexo 6.2.2.
+
+Debe destacarse que a fines de marzo 2024 aún queda por cobrar a TOTALEnergies la última tercera parte del tramo B comercializado por US\$10'000,000. Este monto debe ser cancelado por TOTALEnergies una vez se lleve a cabo la evaluación de la implementación de la Hoja de Ruta.
+
+#### **6.2.2.1 Marketing para venta de VCUs**
+
+::: callout-important
+#### No se programaron actividades este trimestre
+:::
+
+### 6.2.3 Generación de rendimientos financieros de las actividades económicas sostenibles
+
+#### **6.2.3.1 Fondo a Largo Plazo**
+
+::: callout-important
+#### No está programado en el presente trimestre, el reporte financiero del Fondo a Largo Plazo debe ser alcanzado por PROFONANPE, en los próximos meses. {.callout-important}
+:::

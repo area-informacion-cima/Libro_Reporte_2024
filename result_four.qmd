@@ -1,0 +1,168 @@
+---
+title: "Resultado"
+number-sections: false
+---
+
+```{r include=FALSE}
+knitr::knit_child("setup.qmd")
+```
+
+## Se fomenta la planificación y gestión integral del territorio que contribuye a la mejora de la calidad de vida de la población indígena y local, bajo un enfoque de derechos humano
+
+## 4.1 Resultado intermedio: Las poblaciones locales mejoran sus procesos de planificación
+
+### 4.1.1 Actualización de FOCAL
+
+#### 4.1.1.1 Evaluación de la herramienta FOCAL
+
+FOCAL fue diseñado para el empoderamiento de las poblaciones vecinas al PNCAZ y que logren la mejora de su calidad de vida, a través del buen manejo del territorio y sus recursos. Dicha herramienta se viene implementado por más de 10 años y consideramos que es necesario realizar una evaluación sobe su implementación a fin de mejorar y estandarizar la metodología.
+
+Actualmente la Dirección de Planificación y Monitoreo, y la Dirección de Desarrollo Institucional e Investigaciones de CIMA, viene programando actividades para la revisión y ajuste de las herramientas FOCAL, en el marco de mejorar su implementación, así como medir su efectividad. Especialmente, de las prioridades establecidas en los Planes de Calidad de Vida. Se tiene programado con la jefatura, desarrollar reuniones de trabajo, para socializar estos nuevos avances.
+
+#### 4.1.1.2 Talleres de validación (se considera la participación de un asesor en PPII, un traductor)
+
+::: callout-important
+## CIMA considera la participación de un traductor, cuando es solicitado y pertinente. Este trimestre no hubo actividades programadas. {.callout-important}
+:::
+
+#### 4.1.1.3 Talleres de capacitación (se considera capacitaciones a los técnicos de campo y representantes de la comunidad)
+
+::: callout-important
+## Actividad no estuvo programada este trimestre.
+:::
+
+### 4.1.2 Involucramiento activo de la población indígena y local en procesos de planificación territorial en la ZA a escala regional y local (Bosque local, CUSAF)
+
+::: callout-important
+## Actividades no fueron programadas este trimestre {.callout-important}
+:::
+
+### 4.1.3 Identificación de prioridades establecidas en los PCV para la gestión territorial
+
+#### 4.1.3.1 Logística para técnicos de Campo
+
+Durante el presente trimestre, a través del área administrativa de cada una de las sedes se a brindado la logística adecuada a los técnicos de campo de acuerdo a su programación mensual. Dicha logística consiste en su dotación de combustible o gastos de traslado), alimentación y hospedaje
+
+#### **4.1.3.2 Salarios Personal de Campo**
+
+Durante el presente trimestre, se tienen un total de 20 técnicos de campo, distribuidos de la siguiente manera: 8 en la Sede Tarapoto, 6 en la Sede Tocache, 3 en la Sede Aguaytia y 3 en la Sede Contamana. La relación esta en el item Relación de personal
+
+#### 4.1.3.3 EANF
+
+Se realizaron distintas sesiones de aprendizaje, de acuerdo al manual de educación ambiental, con la participación de 24 centros poblados. Distribuídos en las sedes de Aguaytía; *La Libertad de Samiria y Nuevo Jordan*; Tarapoto; *La primavera, Miraflores, Pucallpa, Ruega Dios, San José de Yanayacu, San Juan de Shitari ,Santa Rosa de Huayali*; Tocache; *Alto Chimbote, Alto Pacotillo, Centro Rio Azul Ibañez, Consuelo, Gossen, Jorge Basadre, La Colpa, Mantención, Maronilla, Nueva Unión, Rio Blanco, San Juan Km33, Sargento Lores de Balsayacu, Valle San Juan, Vista Alegre;* @fig-eanf.
+
+![Porcentaje de comunidades participantes de la EANF (n=28 comunidades), de acuerdo con las sesiones del Manual de Educación Ambiental, en la ZA del PN Cordillera Azul, durante el primer trimestre 2024.](images/Comunidades_EANF.svg){#fig-eanf alt="Porcentaje de comunidades participantes de la EANF (n=28 comunidades), de acuerdo con las sesiones del Manual de Educación Ambiental, en la ZA del PN Cordillera Azul, durante el primer trimestre 2024."}
+
+De acuerdo con los beneficiarios, 759 personas; mujeres y varones, participaron de las sesiones de EANF. Los varones, tuvieron una participación más amplia, respecto de las mujeres ( @fig-sexo_eanf).
+
+![Número de Mujeres (n=229) y Varones (n=530) participantes de las sesiones de EANF, en la ZA del PN Cordillera Azul, durante el primer trimestre 2024.](images/Hombre_Mujeres_EANF.svg){#fig-sexo_eanf alt="Número de Mujeres (n=229) y Varones (n=530) participantes de las sesiones de EANF, en la ZA del PN Cordillera Azul, durante el primer trimestre 2024."}
+
+#### 4.1.3.4 Normas de Convivencia
+
+Este trimestre, se desarrollaron actividades para el inicio, elaboración, aprobación y difusión de las normas de convivencia. Un total de 498 personas, de 10 Centros Poblados participaron activamente, en la elaboración de las normas.
+
+Participaron alrededor de 97 mujeres y 216 varones; este número es referencial, pues en los centros poblados *Progreso* y *Miraflores,* en Tarapoto y *Santa Rosa de la Cumbre,* en Tocache, el número de beneficiarios por sexo, no pudo ser estimado (@fig-NormasComunidades).
+
+![Comunidades beneficiarias del proceso de elaboración y aprobación de las Normas de Convivencia, en la ZA del PN Cordillera Azul, durante el primer trimestre 2024.](images/Normas_convivencia_Comunidades.svg){#fig-NormasComunidades alt="Comunidades beneficiarias del proceso de elaboración y aprobación de las Normas de Convivencia, en la ZA del PN Cordillera Azul, durante el primer trimestre 2024." width="624"}
+
+El 23% de las comunidades se encuentra en etapa de difusión; es decir, que ya cuentan con normas aprobadas, en Asamblea Comunal. En 35% de las comunidades, se encuentran en etapa de aprobación de las normas; los cuales están próximos a ser difundidas (@fig-normas).
+
+![Porcentaje de Centros Poblados de Tarapoto y Tocache, que realizan Normas de Convivencia, en la ZA del PN Cordillera Azul, durante el primer trimestre 2024.](images/ActividadesNormasConvivencia_Comunidades.svg){#fig-normas alt="Porcentaje de Centros Poblados de Tarapoto y Tocache, que realizan Normas de Convivencia, en la ZA del PN Cordillera Azul, durante el primer trimestre 2024."}
+
+#### 4.1.3.5 PCV elaborados y actualizados (incluye la entrega)
+
+Este trimestre, se trabajaron los Plan de Calidad de Vida (PCV), de las comunidades nativas *Shipibo Konibo Manco Capac* y *Kichwa Anak Kurutuyacu*, y 16 centros poblados, de los sectores de Tarapoto, Tocache y Contamana.
+
+En Tarapoto, seis comunidades se encuentran en proceso de elaboración de su PCV, de los nueves programados; siendo el centro poblado *San Juan de Shitari,* con un 75% de avance, próximo a concluir su elaboración ( @fig-pvctarapoto).
+
+![Número de Comunidades y Centros Poblados en proceso de elaboración del PCV, en la ZA del PN Cordillera Azul, durante el primer trimestre 2024.](images/PCV_Tarapoto-02.svg){#fig-pvctarapoto alt="Número de Comunidades y Centros Poblados en proceso de elaboración del PCV, en la ZA del PN Cordillera Azul, durante el primer trimestre 2024." width="656"}
+
+En el sector de Tocache, los centros poblados Bajo Chimbote y Montaña Verde concluyeron la elaboración de sus PCV. Además, cinco continúan en proceso de elaboración (@fig-to_co_pcv). En el sector de Contamana, la comunidad nativa Manco Capac, se encuentra en proceso de actualización (@fig-to_co_pcv). Este trimestre no hubo actividades respecto a la elaboración y actualización del PCV, en el sector de Aguaytía.
+
+![Procesos de Elaboración y Actualización en las comunidades y centros poblados de Tocache (izquierda) y Contamana (derecha), en la ZA del PN Cordillera Azul, durante el primer trimestre 2024.](images/Tocache_Contamana_pcv.svg){#fig-to_co_pcv alt="Procesos de Elaboración y Actualización en las comunidades y centros poblados de Tocache (izquierda) y Contamana (derecha), en la ZA del PN Cordillera Azul, durante el primer trimestre 2024."}
+
+Además, este mes, se realizaron actividades en el marco del proceso de actualización y elaboración de PCV no programados, en las metas del año 2024. Así, en el sector Tarapoto, las comunidades de Ramón Castilla y Sangamayo, se encuentran en proceso de actualización del plan. Mientras que, en Tocache, la comunidad de Inca Huasi, a culminado con su proceso de elaboración de PCV; siendo la primera vez ( @fig-noprogramados).
+
+![Proceso de Actualización y Elaboración de PCV en ejecución, pero no programados para el 2024, en la ZA del PN Cordillera Azul.](images/PCV_NoProgramados.svg){#fig-noprogramados alt="Proceso de Actualización y Elaboración de PCV en ejecución, pero no programados para el 2024, en la ZA del PN Cordillera Azul."}
+
+Un resumen, del estado de avance al primer trimestre, de los planes de calidad de vida, es proporcionado en el [Anexo 4.1.3.5](https://drive.google.com/drive/folders/1RaasQs0WfZbZArjda4tduItQyqq_ANeq?usp=sharing).
+
+## 4.2 Resultado intermedio: Se promueve la articulación de las oportunidades del territorio identificadas en la ZA del PNCAZ con oportunidades de inversión
+
+### 4.2.1 Coordinación con los gobiernos locales y/o regionales para incorporar los PCV como oportunidades de inversión social en su jurisdicción
+
+#### 4.2.1.1 Participación de las comunidades en la elaboración del Presupuesto Participativo para presentar sus prioridades según el PCV
+
+***Actividades en el ámbito de la sede Tarapoto***
+
+A invitación de la municipalidad distrital de Chazuta, se acompañó a la CCNN Mushuck Llacta de Chipaota, durante su participación en la presentación del Presupuesto Participativo del presente año. Sin embargo, no se ha logrado incluir en la lista de proyectos de la municipalidad, ninguna de las prioridades del PCV. Aunque, fue importante para la comunidad tener experiencia y visibilizar sus necesidades con la municipalidad. En el futuro, se mejorará la propuesta y se continuará intentado.
+
+#### 4.2.1.2 Participación de las comunidades con PCV en la elaboración de PDLC y PDRC
+
+***Actividades en el ámbito de la sede Tarapoto***
+
+Se han sostenido reuniones de coordinación, con funcionarios y regidores de la municipalidad Distrital de Sauce, con la finalidad de revisar los TDR elaborados para la construcción de su Plan de Desarrollo Local Concertado. Este es un compromiso que CIMA-SERNANP se ha comprometido con financiamiento. A la fecha, está pendiente la adecuación de dichos TDR a la guía elaborada por el CEPLAN.
+
+### 4.2.2 Coordinación con empresas y otras iniciativas públicas y privadas de inversión para incorporar los PCV como oportunidades de inversión privada de su jurisdicción
+
+#### 4.2.2.1 Coordinación con empresas privadas, Gobierno Central (sectores), proyectos de cooperación, proyectos de inversión público o privado, OXI
+
+***Actividades en el ámbito de la sede Tarapoto***
+
+Se desarrolló una reunión de coordinación con la empresa Generación eléctrica Rio Biavo S.A.C; y la Municipalidad Distrital del Alto Biavo, con la finalidad de articular el apoyo al poblado de Nuevo San Miguel, para la obtención de agua potable entubada. CIMA-SERNANP se comprometieron en apoyar con la elaboración de un expediente técnico, siempre que la Empresa o la Municipalidad garanticen la ejecución del expediente.
+
+Ha quedado pendiente la realización de otra reunión que permita desarrollar algunos detalles, principalmente por parte de la empresa, quienes han advertido que dicho proyecto demandaría de muchos requisitos, debido a que el poblado aparece en la lista del MINCUL, como comunidad nativa.
+
+### 4.2.3 Implementación de PCV (aspecto cultural, político, social y natural) y Desarrollo de acciones cívicas
+
+#### 4.2.3.1 Selección de CCNN y CCPP para el quinquenio (establecer criterios)
+
+Cada una de las sedes, junto con la Dirección de Planificación y Monitoreo definieron la lista de comunidades con las que se estará trabajando este 2024.
+
+#### 4.2.3.2 Bienes y servicios realizados (prioridades de PCV)
+
+Este trimestre, se logró desarrollar 35 actividades, en el marco de las prioridades del PCV; los cuales representan Hitos logrados, al primer trimestre 2024. Se han obtenido hitos, en cada una de las sedes; Tocache (n = 14), Aguaytía (n=9), Contamana (n=7) y Tarapoto (n=6). Los Hitos cubren diversos temas, desde actividades de gestión de documentos con el estado (municipalidad, gobierno regional), asistencia técnica para la elaboración de planes de trabajo, apoyo para implementar un botiquín comunal, planes de manejo, turismo y artesanía, y apoyo a la vigilancia y control (@tbl-hitos). Así, se cubrieron, temas relacionados al turismo, sociales, económicos y naturales, según las prioridades del plan de calidad de vida (resumen de prioridades al primer trimestre - [Anexo 4.2.3.2](https://drive.google.com/drive/folders/1bY9Ua5ZEBPZGT8tauhVJ_APLNPUtwTfT?usp=drive_link)).
+
+Entre los logros resaltan en Tarapoto, el apoyo de CIMA-SERNANP en la coordinación y gestiones previas, para que la Dirección Regional de Salud del Gobierno regional de San Martín, supervise la infraestructura de salud del poblado, para su caracterización a un nivel superior al actual. En Contamana, finalmente, se ha concluído con la conformidad oficial, por la SUNARP la exclusión de los centros poblados de Fernando Belaunde Terry y Nuevo San Martón, del BPP Biavo Cordillera Azul. Finalmente, las comunidades, podrán realizar el trámite para su titulación. Actualmente, se realizan reuniones de trabajo con DISAFILPA para presentar los documentos necesarios. Asimismo, el ordenamiento de las parcelas de los pobladores, para tramitar constancias de posesión reconocidas por la Agencia Agraria; requisito clave, en la titulación.
+
+```{r include = TRUE, message = FALSE, echo = FALSE}
+#| label: tbl-hitos 
+#| tbl-cap: "Hitos logrados en el marco de la implementación de las prioridades del PCV, en la ZA del PN Cordillera Azul, en el primer trimestre 2024" 
+setwd("U:/Libro_Reporte/rda")
+load("resumen_implementados2024.RDA")
+implementados<-implementados |>
+  mutate(Sede = ifelse(duplicated(Sede), "", Sede),
+         Comunidad = ifelse(duplicated(Comunidad), "", Comunidad))
+# En formato rmarkdown
+#implementados |>
+#  mutate(Hito = paste0("[", Hito, "](", Link, ")")) |>
+#  select(-Link) %>%  # Eliminar la columna de URLs
+#  kable(format = "html", escape = F) |>
+#  kable_styling("striped", full_width = F) |>
+#  row_spec(0, bold = TRUE, color = "black")
+#
+implementados |>
+mutate(Hito = sprintf('<a href="%s" target="_blank">%s</a>', Link, Hito))|>
+  select(-Link) |>  # Eliminar la columna de URLs
+  kable(format = "html", escape = F) |>
+  kable_styling("striped", full_width = F) |>
+  row_spec(0, bold = TRUE, color = "black")
+```
+
+### **4.2.4 Fortalecimiento de capacidades para un mejor acceso a los servicios de la administración pública por parte de dirigentes, líderes de comunidades nativas y centros poblados**
+
+::: callout-important
+## Actividades están programadas a partir del tercer trimestre 2024.
+:::
+
+## **4.3 Resultado intermedio: En la ZA se gestionan espacios restauración del bosque que coadyuvan a la gestión del PNCAZ bajo el enfoque integral de paisajes**
+
+#### **4.3.1 Implementación de iniciativas de restauración ecológica en la ZA**
+
+#### **4.3.1.1 Monitoreo de la restauración y uso de las áreas establecidas como áreas para pasantías (incluyen las hectáreas de bosque del quinquenio anterior)**
+
+**Comunidades Nativas de Mariscal Cáceres, Santa Rosa de Aguaytía y Yamino.** Durante los meses de febrero y marzo se ha contratado a un consultor para realizar un diagnóstico del estado situacional de los viveros comunales y de las parcelas de restauración. ([Anexo 4.3.1.1 - ver informe](https://drive.google.com/drive/folders/1nhCfYIN9xXILAAHngAEnvc5Wn7t8l11G?usp=sharing)). También se ha realizado la limpieza y mantenimiento de los viveros comunales y se adquirió semillas de especies forestales de las CCNN de Santa Rosa de Aguaytía y Mariscal Cáceres.
+
+**Compartiendo experiencias de Restauración Ecológica del Paisaje.** Alumnos de la Maestría de la Maestría Conservación y Recursos Forestales de la Universidad Agraria la Molina, visitaron la comunidad nativa de Yamino, para conocer las experiencias de restauración, como parte de su curso de etnobiología.
+
+En las los centros poblados de San José de Huaquisha y Buenos aires, se realizó el monitoreo de plantulas de Tornillo. Se realizo el mantenimiento de las islas y conectores de restauración, este mantenimiento ayuda a que el área acelere su recuperación. Finalmente, se recibió la visita de los alumnos de la facultad de recursos naturales de la Universidad Nacional Agraria de la Selva; quienes fueron informados sobre los trabajos de restauración en la sede Tocache y el trabajo de gestión del parque, en la ZA ([Anexo 4.3.1.1-ver informe](https://drive.google.com/drive/folders/1F85FykX8zQAVQ289GSsXUFmywgKI1wm7?usp=sharing)).

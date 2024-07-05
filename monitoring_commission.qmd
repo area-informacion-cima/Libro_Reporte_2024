@@ -1,0 +1,30 @@
+---
+title: "IV Comisión de Seguimiento"
+number-sections: false
+---
+
+```{r echo=FALSE}
+knitr::knit_child("setup.qmd")
+```
+
+# IV. De las comisiones de seguimiento y/o supervisión
+
+Se alcanza la siguiente matriz, con el desarrollo de reuniones previas. Sin embargo, en el presente trimestre no se realizó ninguna comisión de seguimiento, ni se actualizó a los nuevos miembros. El siguiente trimestre, está programada la primera comisión de seguimiento del 2024.
+
+```{r echo=FALSE, message=FALSE}
+### tabla comisión de seguimiento
+setwd("U:/Reporte_PNCAZ_2024/datos")
+seguimiento<-read_xlsx("Comision_Seguimiento.xlsx" )
+# filtrar el año
+seguimiento<-seguimiento |>
+  filter(Año==2023)
+# Colapsar en una sóla celda
+seg_colapsado<-seguimiento |>
+  group_by(Año, `Resolución de conformación de la Comisión`,`Fecha de realización`) |>
+  summarise(Miembros = paste(`Miembros de la Comisión`, 
+            collapse = "\n"), .groups = "drop")
+kable(seg_colapsado, format = "markdown", escape = FALSE, align = c('c', 'c')) |>
+  row_spec(0, bold = TRUE, background = "#CCCCFF") |>
+  kable_styling("striped", full_width = F) #|>
+  #scroll_box(width = "800px")
+```
