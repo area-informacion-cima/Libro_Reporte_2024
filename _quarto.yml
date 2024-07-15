@@ -14,6 +14,14 @@ book:
    right: |
         Este libro fue construído en <a href="https://quarto.org/">Quarto</a> usando 
         <a href="https://www.rstudio.com/categories/rstudio-ide/">RStudio IDE</a>.
+  site-url: https://area-informacion-cima.github.io/Libro_Reporte_2024/
+  repo-url: https://github.com/area-informacion-cima/Libro_Reporte_2024.git
+  repo-branch: main
+  repo-actions: [edit, issue]
+
+
+
+
 
   chapters:
     - index.qmd
