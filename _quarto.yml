@@ -19,10 +19,6 @@ book:
   repo-branch: main
   repo-actions: [edit, issue]
 
-
-
-
-
   chapters:
     - index.qmd
     - intro.qmd
