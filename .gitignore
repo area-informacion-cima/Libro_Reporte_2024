@@ -3,5 +3,11 @@
 .RData
 .Ruserdata
 _book
+<<<<<<< HEAD
 rsconnect
 /.quarto/
+=======
+_bookdown_files
+rsconnect
+/.quarto/
+>>>>>>> e063fedd76deb0b72463b7c9e1f6008102e9ceba
