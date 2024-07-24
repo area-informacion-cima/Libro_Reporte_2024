@@ -1,6 +1,8 @@
+permalink: /404.html
+
 project:
   type: book
-  output-dir: _book
+  output-dir: _docs
 
 book:
   title: "Primer Reporte Trimestral 2024"
@@ -51,14 +53,8 @@ format:
       - cosmo
       - reporte_styles.css
     code-link: true
-  pdf:
-    documentclass: scrreprt
 
 editor: visual
-
-
-
-
 
 
 
