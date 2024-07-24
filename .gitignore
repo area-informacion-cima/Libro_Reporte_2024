@@ -4,4 +4,4 @@
 .Ruserdata
 ._book
 /.quarto/
-
+*.html

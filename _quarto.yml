@@ -5,7 +5,7 @@ project:
 book:
   title: "Primer Reporte Trimestral 2024"
   reader-mode: true
-  date: "r Sys.Date()"
+  date: "24/07/2024"
   page-footer:
    left: |
      © Copyright 2024. CIMA - Centro de Conservación, Investigación y Manejo de Areas Naturales 
