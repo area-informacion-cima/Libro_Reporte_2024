@@ -20,7 +20,7 @@ book:
  
   repo-branch: main
   
-  repo-actions: [edit, issue]
+  repo-actions: [issue]
 
   chapters:
     - index.qmd
